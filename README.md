@@ -20,7 +20,7 @@ https://www.terminalgif.com
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,c,java,html,css,js,react,nodejs,dotnet,mysql,git,github,linux,aws,raspberrypi,notion,discord,gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,c,java,html,css,js,react,nodejs,dotnet,mysql,git,github,linux,aws,raspberrypi,notion)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
