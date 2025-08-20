@@ -81,7 +81,7 @@ Check out my latest post 👇
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> <a href="https://docs.google.com/document/d/1aa-X7qXeYvxaK74Y4AYAcsWuGyPd8AUkn0YSm8TCqME/edit?usp=drive_link" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:0055FF,100:00F0B5&height=120&section=footer" alt="footer"/>
 
