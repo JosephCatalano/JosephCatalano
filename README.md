@@ -25,4 +25,4 @@ https://www.terminalgif.com
 > [!IMPORTANT]  
 > <a href="https://docs.google.com/document/d/1aa-X7qXeYvxaK74Y4AYAcsWuGyPd8AUkn0YSm8TCqME/edit?usp=sharing" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:0055FF,100:00F0B5&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0B5,50:0055FF,100:8a2be2&height=120&section=footer" alt="footer"/>
