@@ -23,6 +23,6 @@ https://www.terminalgif.com
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://docs.google.com/document/d/1aa-X7qXeYvxaK74Y4AYAcsWuGyPd8AUkn0YSm8TCqME/edit?usp=sharing" download>Download my resume</a>
+> <a href="https://docs.google.com/document/d/1DCbGBI0mtoE3ljuxWTPPOtOpjiA1XijgH0WDDCYAcBY/edit?tab=t.0" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0B5,50:0055FF,100:8a2be2&height=120&section=footer" alt="footer"/>
